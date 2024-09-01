@@ -6,7 +6,7 @@ from quotes import quotes
 app = Flask(__name__) 
 
 #get all quotes
-@app.route('/')
+@app.route('/quotes')
 def index():
     return quotes
 
@@ -19,7 +19,7 @@ def get_quote_by_id(id):
     return {'error': 'quote not found'}
 
 #get random quote
-@app.route('/rand_quote')
+@app.route('/quote/rand_quote')
 def get_random_quote():
     quote = random.choice(quotes)
     return quote    

@@ -1,8 +1,8 @@
 from flask import Flask
 import random
 from quotes import quotes
-import os
-# 4105 4000 2019 1423
+
+
 app = Flask(__name__) 
 
 #get all quotes
@@ -25,4 +25,4 @@ def get_random_quote():
     return quote    
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+    app.run(host='0.0.0.0', debug=False)

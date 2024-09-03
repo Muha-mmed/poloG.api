@@ -6,7 +6,7 @@ from quotes import quotes
 app = Flask(__name__) 
 
 #get all quotes
-@app.route('')
+@app.route('/')
 def index():
     return quotes
 

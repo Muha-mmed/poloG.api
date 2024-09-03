@@ -6,7 +6,7 @@ from quotes import quotes
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-@app.route('/quotes')
+@app.route('/')
 def index():
     return jsonify(quotes)
 

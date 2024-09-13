@@ -506,7 +506,7 @@ quotes= [
     },
     {
         'id': 127,
-        'quote': 'I\'m the voice of the streets, I speak for those who can't.'
+        'quote': 'I\'m the voice of the streets, I speak for those who can\'t.'
     },
     {
         'id': 128,
@@ -558,7 +558,7 @@ quotes= [
     },
     {
         'id': 140,
-        'quote' 'I\'m not afraid of failure, it\'s part of the journey to success.'
+        'quote': 'I\'m not afraid of failure, it\'s part of the journey to success.'
     },
     {
         'id': 141,
@@ -566,7 +566,7 @@ quotes= [
     },
     {
         'id': 142,
-        'quote' 'I\'m on a mission to inspire, to change lives through my music.'
+        'quote': 'I\'m on a mission to inspire, to change lives through my music.'
     },
     {
         'id': 143,

@@ -109,7 +109,7 @@ quotes= [
     },
     {
         'id': 28,
-        'quote': 'Most times I\'m by myself I\'m still confused from betrayel'
+        'quote': 'Most times I\'m by myself I\'m still confused from betrayal'
     },
     {
         'id': 29,
@@ -319,5 +319,257 @@ quotes= [
     {
         'id': 80,
         'quote': 'R.I.P the juice'
+    },
+    {
+        'id': 81,
+        'quote': 'I ain\'t really hop off the porch \'til a nigga got older, but I been on the block since a child.'
+    },
+    {
+        'id': 82,
+        'quote': 'Everything was all good way back in the day, then whole hood really went wild.'
+    },
+    {
+        'id': 83,
+        'quote': 'I\'ve been serving fiends all day, out there posted with the gang.'
+    },
+    {
+        'id': 84,
+        'quote': 'Now I live like a king, I got on, now I\'m blessing my team told my brother, I got your back.'
+    },
+    {
+        'id': 85,
+        'quote': 'I come from a dark place, I\'ll never be there again.'
+    },
+    {
+        'id': 86,
+        'quote': 'Depend on what you do today You gotta live with each decision that you chose to make.'
+    },
+    {
+        'id': 87,
+        'quote': 'Since I was 9 years old, I knew how to make a song. But when I got older, I used it as a way to express myself.'
+    },
+    {
+        'id': 88,
+        'quote': 'Music is so important. Because in Chicago, it\'s up to us to tell the stories nobody else will.'
+    },
+    {
+        'id': 89,
+        'quote': 'Good music you don\'t gotta know the words, the words know you.'
+    },
+    {
+        'id': 90,
+        'quote': 'I put a lot of pressure on myself just to be the best version of me.'
+    },
+    {
+        'id': 91,
+        'quote': 'I grew a strong passion for music. The more I did the music thing, it\'s like I saw myself going far with it. I believed in myself.'
+    },
+    {
+        'id': 92,
+        'quote': 'Another man\'s success should never make you mad.'
+    },
+    {
+        'id': 93,
+        'quote': 'In life you always see the darkest days before the sunshine.'
+    },
+    {
+        'id': 94,
+        'quote': 'Don\'t dwell on the things you don\'t have. Every opportunity I felt like was passing me up had to catch back up with me.'
+    },
+    {
+        'id': 95,
+        'quote': 'I take full accountability for everything that happens in my life, even when I\'m not inna wrong.'
+    },
+    {
+        'id': 96,
+        'quote': 'Time & time again you got have to remind the world who you are. That can only become difficult if you forget.'
+    },
+    {
+        'id': 97,
+        'quote': 'I ride one deep by myself. I never needed no help.'
+    },
+    {
+        'id': 98,
+        'quote': 'To all my loved ones in heaven; I see you smiling.'
+    },
+    {
+        'id': 99,
+        'quote': 'I\'m cool with being me, I\'m not tryna be nobody else.'
+    },
+    {
+        'id': 100,
+        'quote': 'I used to feel like it was up to me to help out everybody.'
+    },
+    {
+        'id': 101,
+        'quote': 'When you are getting money, it\'s hard to tell who with you.'
+    },
+    {
+        'id': 102,
+        'quote': 'These days loyalty be so fragile.'
+    },
+    {
+        'id': 103,
+        'quote': 'I ain\'t got nobody. But I\'m always there for somebody when they need me.'
+    },
+    {
+        'id': 104,
+        'quote': 'I just want genuine support from the people I love.'
+    },
+    {
+        'id': 105,
+        'quote': 'I give 70% of loyalty, 20% of love, and 10% of trust.'
+    },
+    {
+        'id': 106,
+        'quote': 'I been through so much that it be hard to say “I love you."'
+    },
+    {
+        'id': 107,
+        'quote': 'Don\'t be having me out here thinking you mine. When in real life you somebody else\'s.'
+    },
+    {
+        'id': 108,
+        'quote': 'I\'m versatile with my sound. I can switch it up a lot.'
+    },
+    {
+        'id': 109,
+        'quote': 'Everything happens in real-time, so make decisions that are easy to live with.'
+    },
+    {
+        'id': 110,
+        'quote': 'When it\'s genuine, you don\'t gotta try that hard.'
+    },
+    {
+        'id': 111,
+        'quote': 'I\'m a lion in the jungle, I won\'t back down.'
+    },
+    {
+        'id': 112,
+        'quote': 'They might doubt me, but I\'ll prove them wrong.'
+    },
+    {
+        'id': 113,
+        'quote': 'Whatever\'s meant to be is gon\' figure itself out.'
+    },
+    {
+        'id': 114,
+        'quote': 'Turned that pain into passion and made it happen.'
+    },
+    {
+        'id': 115,
+        'quote': 'In order to break through barriers, you gotta be okay with being tired.'
+    },
+    {
+        'id': 116,
+        'quote': 'I do this for my family, I do this for the gang.'
+    },
+    {
+        'id': 117,
+        'quote': 'I\'m a product of my environment, but I won\'t let it define me.'
+    },
+    {
+        'id': 118,
+        'quote': 'I\'ve been through so much pain, but I still shine.'
+    },
+    {
+        'id': 119,
+        'quote': 'I\'m focused on the grind, I don\'t have time for distractions.'
+    },
+    {
+        'id': 120,
+        'quote': 'I turned my pain into passion, my struggle into strength.'
+    },
+    {
+        'id': 121,
+        'quote': 'I\'m a king in this game, I\'ll conquer anything in my path.'
+    },
+    {
+        'id': 122,
+        'quote': 'I speak from the heart, my music is my therapy.'
+    },
+    {
+        'id': 123,
+        'quote': 'I\'m destined for greatness, I can feel it in my soul.'
+    },
+    {
+        'id': 124,
+        'quote': 'I\'m a warrior, fighting for my dreams.'
+    },
+    {
+        'id': 125,
+        'quote': 'I\'m just tryna change the world, one song at a time.'
+    },
+    {
+        'id': 126,
+        'quote': 'I stay true to myself, I won\'t compromise my values.'
+    },
+    {
+        'id': 127,
+        'quote': 'I\'m the voice of the streets, I speak for those who can't.'
+    },
+    {
+        'id': 128,
+        'quote': 'Powerful ideas are just in your pocket.'
+    },
+    {
+        'id': 129,
+        'quote': 'I\'ve been through hell and back, but I\'m still standing.'
+    },
+    {
+        'id': 130,
+        'quote': 'I refuse to let my past dictate my future.'
+    },
+    {
+        'id': 131,
+        'quote': 'I\'m chasing my dreams, I won\'t settle for less.'
+    },
+    {
+        'id': 132,
+        'quote': 'I\'m a survivor, I\'ll overcome any obstacle in my way.'
+    },
+    {
+        'id': 133,
+        'quote': 'I\'m blessed to have made it this far, but I won\'t stop now.'
+    },
+    {
+        'id': 134,
+        'quote': 'I\'m a legend in the making, watch me rise.'
+    },
+    {
+        'id': 135,
+        'quote': 'I\'m the voice of the unheard, I won\'t be silenced.'
+    },
+    {
+        'id': 136,
+        'quote': 'I hustle hard, I grind harder.'
+    },
+    {
+        'id': 137,
+        'quote': 'I\'m not here to fit in, I\'m here to stand out.'
+    },
+    {
+        'id': 138,
+        'quote': 'I\'m a risk-taker, I\'ll bet it all on myself.'
+    },
+    {
+        'id': 139,
+        'quote': 'I\'m not here to fit in, I\'m here to stand out.'
+    },
+    {
+        'id': 140,
+        'quote' 'I\'m not afraid of failure, it\'s part of the journey to success.'
+    },
+    {
+        'id': 141,
+        'quote': 'I\'m on a mission to inspire, to change lives through my music.'
+    },
+    {
+        'id': 142,
+        'quote' 'I\'m on a mission to inspire, to change lives through my music.'
+    },
+    {
+        'id': 143,
+        'quote': 'I\'m a testament of what\'s possible when you believe in yourself.'
     }
 ]

@@ -6,10 +6,12 @@ from quotes import quotes
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
+# GET ALL QUOTES
 @app.route('/')
 def index():
     return jsonify(quotes)
 
+# GET QUOTE BY ID
 @app.route('/quote/<int:id>')
 def get_quote_by_id(id):
     for quote in quotes:
@@ -17,6 +19,7 @@ def get_quote_by_id(id):
             return jsonify(quote)
     return jsonify({'error': 'quote not found'})
 
+# GET RANDOM QUOTE
 @app.route('/quote/rand_quote')
 def get_random_quote():
     quote = random.choice(quotes)
